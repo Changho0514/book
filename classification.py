@@ -1,6 +1,9 @@
-# 기본 분류 파일
 def fiction(a):
   return "소설입니다."
-def noteBook(b):
+
+def noteBook(a):
   return "공책입니다."
+
+def coding(a):
+  return "개발 관련 도서입니다."
 
