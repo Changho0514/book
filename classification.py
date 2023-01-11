@@ -12,3 +12,6 @@ def essay():
 
 def magazine_new():
   return "잡지입니다."
+
+def comic():
+  return "만화입니다."
