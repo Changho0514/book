@@ -10,5 +10,5 @@ def coding():
 def essay():
   return "에세이입니다."
 
-def magazine():
-  return "잡지입니다."
+def premium_magazine():
+  return "유료용 잡지입니다."
